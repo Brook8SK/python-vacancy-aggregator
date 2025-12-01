@@ -29,7 +29,7 @@ git clone https://github.com/Brook8SK/python-vacancy-aggregator.git
 cd python-vacancy-aggregator
 pip install -r requirements.txt
 
-##Запуск
+## Запуск
 
 Запусти скрипт:﻿
 python main.py
