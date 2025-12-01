@@ -1,4 +1,3 @@
-
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -63,3 +62,4 @@ df_all = pd.concat([df_hh, df_joobsi, df_indeed], ignore_index=True)
 df_all.to_excel("asd.xlsx",index=False)
 
 print(df_all)
+
