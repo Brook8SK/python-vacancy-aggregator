@@ -22,3 +22,14 @@ Job vacancies scraper/aggregator written in Python (requests, pandas, BeautifulS
 - BeautifulSoup (bs4)
 
 ## Установка
+
+Склонируй репозиторий и установи зависимости:﻿
+
+git clone https://github.com/Brook8SK/python-vacancy-aggregator.git
+cd python-vacancy-aggregator
+pip install -r requirements.txt
+
+##Запуск
+
+Запусти скрипт:﻿
+python main.py
